@@ -1,0 +1,34 @@
+{
+  box-sizing: border-box;
+}
+
+h1, h2, h3, .text-centered{
+  text-align: center;
+  font-family: monospace;
+}
+
+footer, body, header, .color{
+  background-color: #2B2D42;
+  color: #EDF2F4;
+}
+
+h1 {
+  font-size: 50px;  
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;  
+}
+
+p {
+  font-family: serif;
+  font-size: 15px;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
