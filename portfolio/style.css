@@ -4,7 +4,7 @@
 }
 
 /* Code for the headers. */
-h1, h2, h3, .text-centered{
+h1, h2, h3, footer, .text-centered{
   text-align: center;
   font-family: monospace;
 }
