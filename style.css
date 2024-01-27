@@ -1,0 +1,40 @@
+/* Code so css doesn't revert to old box sizing. */
+{
+  box-sizing: border-box;
+}
+
+/* Code for the headers. */
+h1, h2, h3, footer, .text-centered{
+  text-align: center;
+  font-family: monospace;
+}
+
+/* Code for the page colors. */
+footer, body, header, .color{
+  background-color: #2B2D42;
+  color: #EDF2F4;
+}
+
+/* Code for font sizes. */
+h1 {
+  font-size: 50px;  
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;  
+}
+
+/* Code for the paragraphs. */
+p {
+  font-family: serif;
+  font-size: 15px;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
